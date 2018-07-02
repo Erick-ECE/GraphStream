@@ -1,7 +1,7 @@
 # GraphStream
 Use of GraphStream library 
 
-##Graph 1
+## Graph 1
 _graphic of 100 nodes with an average degree of 2_
 
 **Compile :**
